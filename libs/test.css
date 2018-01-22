@@ -1,0 +1,76 @@
+header{
+	left: 50%;
+	border: 1px solid #ddd;
+	height: 160px;
+	padding: 1px;
+}
+
+nav{
+top:69%;
+position: absolute;
+
+}
+
+main{
+	min-height: 600px; 
+	font-size: 20px;
+	margin-top: 5%;
+	color:black;
+	text-align: center;
+}
+
+body{
+	background-color: #6E6363;
+}
+
+footer{
+	height: 60px;
+}
+
+
+
+.auth{
+	margin:auto;
+	width: 300px;
+}
+
+.btns{
+	float: left;
+}
+
+.btn{
+	border-style: none;
+	background-color: #222222;
+	color:white;
+}
+
+.btn:hover{
+	background-color: black;
+}
+
+*{
+	font-family: Comic Sans MS;
+}
+
+.footer-left{
+	float:left;
+	color:white;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.footer-right{
+	float: right;
+	color:white;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+.footer-right a{
+	color:white;	
+}
+
+.footer-right a:hover{
+	color:black;	
+}
+
